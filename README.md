@@ -1,1 +1,2 @@
-# devcontainer-django
+# devcontainer-b3
+Djangoアプリをdevcontainer上で動作させ、ブラウザからアクセス確認
